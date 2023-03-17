@@ -1,6 +1,10 @@
 # virtual-warehouse
 Challenge 13 utilizes Sequelize and Express.js to manipulate databases, maintain inventory and handle customer requests.
 To begin, seed the database by executing <winpty mysql -r root -p> and entering <root> as password, then <SOURCE ./db/schema.sql>, <exit>, then execute <npm start> to start the application.
+### Walkthrough Link
+https://drive.google.com/file/d/1Cc9qoaFxvAMOayQSeTzlEwYDffUDQFkk/view
+### GitHub URL
+https://github.com/maxr-e/virtual-warehouse
 
 ## User Story
 AS A manager at an internet retail company
